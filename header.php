@@ -16,7 +16,7 @@
         <link rel="shortcut icon" href="assets/images/favicon.ico">
 
         <!-- App title -->
-        <title>Greek TV by upg.gr</title>
+        <title>Free TV </title>
 
         <!-- App CSS -->
         <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
